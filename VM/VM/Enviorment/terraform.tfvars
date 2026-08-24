@@ -4,6 +4,10 @@ rgkv = {
     name     = "kamrg"
     location = "Australia East"
 } 
+  rg2 = {
+    name     = "kamrg1"
+    location = "Australia East"
+}
 }
 
 
